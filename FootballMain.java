@@ -45,7 +45,6 @@ class PremierLeaguePlayer extends FootballPlayer {
 
 // Main Class
 public class FootballMain {
-
     public static void main(String[] args) {
 
         // Messi - LaLiga
